@@ -71,11 +71,3 @@ Contributions are welcome! Fork the repository, make your changes, and submit a 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
-
-### Notes:
-
-- Replace placeholders like `'your-github-username'` and `'your-github-token'` with your actual GitHub credentials.
-- Customize the README file further to include specific instructions, explanations, or additional features of your application.
-- Include a `LICENSE` file if needed, specifying the license under which your project is distributed.
-
-This consolidated README.md file provides a comprehensive guide for users, covering installation, setup, usage instructions, troubleshooting tips, contribution guidelines, and licensing information for your GitHub Language Tracker application. Adjust it according to your project's specific details and requirements.
