@@ -1,6 +1,7 @@
 # GitHub Language Tracker
+![image](https://github.com/user-attachments/assets/12b5d4b7-1dcd-4bc7-8e4e-e02692c576fd)
 
-This Flask application tracks the most used programming languages across your GitHub repositories and visualizes the data in a bar chart using Chart.js.
+This Flask application tracks the most used programming languages across your GitHub repositories and visualizes the data in a bar chart using Chart.js. The numbers in the bar chart provide a visual representation of how frequently each programming language appears in your GitHub repositories. This visualization helps you quickly understand which languages dominate your projects and how diverse your language usage is. It's a powerful tool for gaining insights into your coding habits and project compositions.
 
 ## Features
 
