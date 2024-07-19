@@ -19,6 +19,10 @@ Before running the application, ensure you have the following installed:
 - requests library
 - Chart.js (included via CDN in `index.html`)
 
+## Future Updates
+
+- Count how many lines of code the user wrote
+
 ## Setup
 
 1. **Clone the repository**:
